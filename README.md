@@ -57,7 +57,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ankushshaw-dev&theme=black-ice)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ankushshaw-dev&theme=black-ice" alt="GitHub Streak" /></a>
   <img width=390 src="https://github-readme-stats-fast.vercel.app/api?username=ankushshaw-dev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <br/>
   <img width=325 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ankushshaw-dev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
