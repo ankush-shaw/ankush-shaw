@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **MERN Stack**
 
-💬 Ask me about **Python, C, ... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, C, ... or anything [here](https://github.com/ankushshaw-dev/ankushshaw-dev/issues)**
 
 ⚡ Fun fact **The first computer “bug” was a real bug.**
 
