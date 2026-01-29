@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ankushshaw-dev.ankushshaw-dev" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ankush-shaw.ankush-shaw" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankush+Shaw!;" />
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **MERN Stack**
 
-💬 Ask me about **Python, C, ... or anything [here](https://github.com/ankushshaw-dev/ankushshaw-dev/issues)**
+💬 Ask me about **Python, C, ... or anything [here](https://github.com/ankush-shaw/ankush-shaw/issues)**
 
 ⚡ Fun fact **The first computer “bug” was a real bug.**
 
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ankushshaw-dev/ankushshaw-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ankush-shaw/ankush-shaw/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -57,10 +57,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/?user=ankushshaw-dev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-fast.vercel.app/api?username=ankushshaw-dev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/?user=ankush-shaw&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-fast.vercel.app/api?username=ankush-shaw&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <br/>
-  <img width=325 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ankushshaw-dev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ankush-shaw&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
