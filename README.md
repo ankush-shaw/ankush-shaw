@@ -27,8 +27,8 @@
   <a href="https://www.linkedin.com/in/ankush-shaw-091a26386/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://drive.google.com/file/d/11p2hiLyJE0dOSSBTVAU5i5aInt7RJWx3/view?usp=sharing" target="_blank">
+     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
